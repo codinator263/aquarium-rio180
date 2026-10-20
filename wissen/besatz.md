@@ -14,7 +14,7 @@ Ein verbindlicher endgültiger Besatz ist aus dem verfügbaren Kontext nicht sic
 
 **Status:** Wunsch
 
-Ein roter Farbton soll im Fischbesatz vorkommen. Besprochen wurden unter anderem Kirschbarben und Rotflossensalmler; etwa 25 °C wurden als Temperaturidee erwähnt.
+Ein roter Farbton soll im Fischbesatz vorkommen. Besprochen wurden unter anderem Kirschbarben und Rotflossensalmler; etwa 25 °C wurden als Temperaturvorgabe definiert.
 
 ## Bodenbewohner
 
